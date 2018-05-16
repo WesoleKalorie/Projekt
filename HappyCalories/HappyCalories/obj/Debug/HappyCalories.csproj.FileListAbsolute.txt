@@ -1,0 +1,8 @@
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\bin\Debug\HappyCalories.exe.config
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\bin\Debug\HappyCalories.exe
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\bin\Debug\HappyCalories.pdb
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\obj\Debug\HappyCalories.csprojResolveAssemblyReference.cache
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\obj\Debug\HappyCalories.Properties.Resources.resources
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\obj\Debug\HappyCalories.csproj.GenerateResource.Cache
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\obj\Debug\HappyCalories.exe
+D:\ProjektHappyCalories\HappyCalories\HappyCalories\obj\Debug\HappyCalories.pdb
